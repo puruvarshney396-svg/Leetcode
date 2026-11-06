@@ -26,4 +26,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
