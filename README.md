@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0682-baseball-game) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
