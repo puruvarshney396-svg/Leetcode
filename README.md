@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/puruvarshney396-svg/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -64,8 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/puruvarshney396-svg/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
