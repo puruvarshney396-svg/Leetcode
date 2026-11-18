@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/puruvarshney396-svg/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0682-baseball-game) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/puruvarshney396-svg/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
