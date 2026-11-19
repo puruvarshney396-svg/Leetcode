@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/puruvarshney396-svg/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/puruvarshney396-svg/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -67,9 +68,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/puruvarshney396-svg/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/puruvarshney396-svg/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/puruvarshney396-svg/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/puruvarshney396-svg/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
